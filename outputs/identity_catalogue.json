@@ -1,0 +1,560 @@
+{
+    "person_4": [
+        {
+            "clip_id": "1",
+            "frame_range": [
+                0,
+                599
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:19.99 m:s"
+            ],
+            "local_id": "track_1",
+            "number_frames": 594,
+            "avg_area": 0.05534319979306959,
+            "avg_confidence": 0.8224784620984235
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                0,
+                106
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:03.54 m:s"
+            ],
+            "local_id": "track_2",
+            "number_frames": 92,
+            "avg_area": 0.1020669983205012,
+            "avg_confidence": 0.7781635976356008
+        }
+    ],
+    "person_1": [
+        {
+            "clip_id": "1",
+            "frame_range": [
+                0,
+                26
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:00.87 m:s"
+            ],
+            "local_id": "track_2",
+            "number_frames": 26,
+            "avg_area": 0.03410932028282288,
+            "avg_confidence": 0.6831854856931247
+        },
+        {
+            "clip_id": "1",
+            "frame_range": [
+                31,
+                144
+            ],
+            "time_range": [
+                "00:01.03 m:s",
+                "00:04.80 m:s"
+            ],
+            "local_id": "track_5",
+            "number_frames": 100,
+            "avg_area": 0.018570692274305557,
+            "avg_confidence": 0.5011382684111595
+        },
+        {
+            "clip_id": "1",
+            "frame_range": [
+                134,
+                611
+            ],
+            "time_range": [
+                "00:04.47 m:s",
+                "00:20.39 m:s"
+            ],
+            "local_id": "track_6",
+            "number_frames": 474,
+            "avg_area": 0.038769002195981145,
+            "avg_confidence": 0.6668494885103612
+        }
+    ],
+    "person_10": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                0,
+                1071
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:35.74 m:s"
+            ],
+            "local_id": "track_1",
+            "number_frames": 1068,
+            "avg_area": 0.12773794053458207,
+            "avg_confidence": 0.8479154721348919
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                0,
+                601
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:20.05 m:s"
+            ],
+            "local_id": "track_1",
+            "number_frames": 597,
+            "avg_area": 0.07827236689007021,
+            "avg_confidence": 0.8098863676265257
+        }
+    ],
+    "person_18": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                14,
+                23
+            ],
+            "time_range": [
+                "00:00.47 m:s",
+                "00:00.77 m:s"
+            ],
+            "local_id": "track_4",
+            "number_frames": 8,
+            "avg_area": 0.02786405586902006,
+            "avg_confidence": 0.5038001276552677
+        }
+    ],
+    "person_23": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                27,
+                921
+            ],
+            "time_range": [
+                "00:00.90 m:s",
+                "00:30.73 m:s"
+            ],
+            "local_id": "track_7",
+            "number_frames": 890,
+            "avg_area": 0.05788473975130913,
+            "avg_confidence": 0.8059005383695109
+        }
+    ],
+    "person_12": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                34,
+                858
+            ],
+            "time_range": [
+                "00:01.13 m:s",
+                "00:28.63 m:s"
+            ],
+            "local_id": "track_9",
+            "number_frames": 795,
+            "avg_area": 0.05202998598129708,
+            "avg_confidence": 0.6414530600016972
+        }
+    ],
+    "person_22": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                330,
+                337
+            ],
+            "time_range": [
+                "00:11.01 m:s",
+                "00:11.24 m:s"
+            ],
+            "local_id": "track_16",
+            "number_frames": 8,
+            "avg_area": 0.015556052879050925,
+            "avg_confidence": 0.5227637216448784
+        }
+    ],
+    "person_17": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                365,
+                370
+            ],
+            "time_range": [
+                "00:12.18 m:s",
+                "00:12.35 m:s"
+            ],
+            "local_id": "track_19",
+            "number_frames": 6,
+            "avg_area": 0.018869156700102883,
+            "avg_confidence": 0.43561511238416034
+        }
+    ],
+    "person_20": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                369,
+                426
+            ],
+            "time_range": [
+                "00:12.31 m:s",
+                "00:14.21 m:s"
+            ],
+            "local_id": "track_20",
+            "number_frames": 55,
+            "avg_area": 0.02370169796927609,
+            "avg_confidence": 0.5721925123171373
+        }
+    ],
+    "person_14": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                400,
+                467
+            ],
+            "time_range": [
+                "00:13.35 m:s",
+                "00:15.58 m:s"
+            ],
+            "local_id": "track_23",
+            "number_frames": 57,
+            "avg_area": 0.026476540502490795,
+            "avg_confidence": 0.599041588996586
+        }
+    ],
+    "person_15": [
+        {
+            "clip_id": "2",
+            "frame_range": [
+                894,
+                906
+            ],
+            "time_range": [
+                "00:29.83 m:s",
+                "00:30.23 m:s"
+            ],
+            "local_id": "track_33",
+            "number_frames": 13,
+            "avg_area": 0.01748445661206078,
+            "avg_confidence": 0.3463490926302396
+        }
+    ],
+    "person_19": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                38,
+                86
+            ],
+            "time_range": [
+                "00:01.27 m:s",
+                "00:02.87 m:s"
+            ],
+            "local_id": "track_5",
+            "number_frames": 25,
+            "avg_area": 0.01103298611111111,
+            "avg_confidence": 0.3478023970127106
+        }
+    ],
+    "person_3": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                47,
+                101
+            ],
+            "time_range": [
+                "00:01.57 m:s",
+                "00:03.37 m:s"
+            ],
+            "local_id": "track_6",
+            "number_frames": 38,
+            "avg_area": 0.06416171088166016,
+            "avg_confidence": 0.5464999369884792
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                574,
+                601
+            ],
+            "time_range": [
+                "00:19.15 m:s",
+                "00:20.05 m:s"
+            ],
+            "local_id": "track_53",
+            "number_frames": 28,
+            "avg_area": 0.08565191575038579,
+            "avg_confidence": 0.5727330446243286
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                594,
+                601
+            ],
+            "time_range": [
+                "00:19.82 m:s",
+                "00:20.05 m:s"
+            ],
+            "local_id": "track_54",
+            "number_frames": 8,
+            "avg_area": 0.0666635772328318,
+            "avg_confidence": 0.7070082202553749
+        }
+    ],
+    "person_5": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                47,
+                181
+            ],
+            "time_range": [
+                "00:01.57 m:s",
+                "00:06.04 m:s"
+            ],
+            "local_id": "track_7",
+            "number_frames": 75,
+            "avg_area": 0.081337488747428,
+            "avg_confidence": 0.6220731802781423
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                398,
+                442
+            ],
+            "time_range": [
+                "00:13.28 m:s",
+                "00:14.75 m:s"
+            ],
+            "local_id": "track_35",
+            "number_frames": 27,
+            "avg_area": 0.0845956754401006,
+            "avg_confidence": 0.49999133745829266
+        }
+    ],
+    "person_21": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                143,
+                235
+            ],
+            "time_range": [
+                "00:04.77 m:s",
+                "00:07.84 m:s"
+            ],
+            "local_id": "track_21",
+            "number_frames": 70,
+            "avg_area": 0.12448226686507936,
+            "avg_confidence": 0.7733991507972989
+        }
+    ],
+    "person_2": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                146,
+                179
+            ],
+            "time_range": [
+                "00:04.87 m:s",
+                "00:05.97 m:s"
+            ],
+            "local_id": "track_22",
+            "number_frames": 34,
+            "avg_area": 0.09216920275054466,
+            "avg_confidence": 0.5336821482462042
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                259,
+                312
+            ],
+            "time_range": [
+                "00:08.64 m:s",
+                "00:10.41 m:s"
+            ],
+            "local_id": "track_33",
+            "number_frames": 15,
+            "avg_area": 0.11236637570730452,
+            "avg_confidence": 0.3895384867986043
+        },
+        {
+            "clip_id": "3",
+            "frame_range": [
+                426,
+                439
+            ],
+            "time_range": [
+                "00:14.21 m:s",
+                "00:14.65 m:s"
+            ],
+            "local_id": "track_39",
+            "number_frames": 14,
+            "avg_area": 0.09304190607087744,
+            "avg_confidence": 0.469021988766534
+        }
+    ],
+    "person_11": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                179,
+                530
+            ],
+            "time_range": [
+                "00:05.97 m:s",
+                "00:17.68 m:s"
+            ],
+            "local_id": "track_30",
+            "number_frames": 331,
+            "avg_area": 0.05608165397073496,
+            "avg_confidence": 0.7546962449197683
+        }
+    ],
+    "person_13": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                441,
+                470
+            ],
+            "time_range": [
+                "00:14.71 m:s",
+                "00:15.68 m:s"
+            ],
+            "local_id": "track_40",
+            "number_frames": 17,
+            "avg_area": 0.050950570477033406,
+            "avg_confidence": 0.33204180352828083
+        }
+    ],
+    "person_9": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                515,
+                546
+            ],
+            "time_range": [
+                "00:17.18 m:s",
+                "00:18.22 m:s"
+            ],
+            "local_id": "track_42",
+            "number_frames": 20,
+            "avg_area": 0.08826557677469135,
+            "avg_confidence": 0.43961241841316223
+        }
+    ],
+    "person_16": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                534,
+                572
+            ],
+            "time_range": [
+                "00:17.82 m:s",
+                "00:19.09 m:s"
+            ],
+            "local_id": "track_43",
+            "number_frames": 24,
+            "avg_area": 0.0887669692804784,
+            "avg_confidence": 0.5864011185864607
+        }
+    ],
+    "person_6": [
+        {
+            "clip_id": "3",
+            "frame_range": [
+                571,
+                582
+            ],
+            "time_range": [
+                "00:19.05 m:s",
+                "00:19.42 m:s"
+            ],
+            "local_id": "track_51",
+            "number_frames": 12,
+            "avg_area": 0.045860259130658436,
+            "avg_confidence": 0.4977639938394229
+        }
+    ],
+    "person_0": [
+        {
+            "clip_id": "4",
+            "frame_range": [
+                0,
+                271
+            ],
+            "time_range": [
+                "00:00.00 m:s",
+                "00:09.04 m:s"
+            ],
+            "local_id": "track_1",
+            "number_frames": 261,
+            "avg_area": 0.0828874801925169,
+            "avg_confidence": 0.6974590917428335
+        },
+        {
+            "clip_id": "4",
+            "frame_range": [
+                306,
+                847
+            ],
+            "time_range": [
+                "00:10.21 m:s",
+                "00:28.26 m:s"
+            ],
+            "local_id": "track_9",
+            "number_frames": 542,
+            "avg_area": 0.07123808447828402,
+            "avg_confidence": 0.7623300910325947
+        }
+    ],
+    "person_8": [
+        {
+            "clip_id": "4",
+            "frame_range": [
+                100,
+                705
+            ],
+            "time_range": [
+                "00:03.34 m:s",
+                "00:23.52 m:s"
+            ],
+            "local_id": "track_2",
+            "number_frames": 604,
+            "avg_area": 0.11152996368570385,
+            "avg_confidence": 0.8669154099774676
+        }
+    ],
+    "person_7": [
+        {
+            "clip_id": "4",
+            "frame_range": [
+                284,
+                295
+            ],
+            "time_range": [
+                "00:09.48 m:s",
+                "00:09.84 m:s"
+            ],
+            "local_id": "track_8",
+            "number_frames": 8,
+            "avg_area": 0.024893678264853395,
+            "avg_confidence": 0.363883800804615
+        }
+    ]
+}
