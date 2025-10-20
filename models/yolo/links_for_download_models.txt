@@ -1,0 +1,3 @@
+https://huggingface.co/henriquequeirozcunha/YOLOv12-violence-detector-roboflow
+
+https://huggingface.co/Shantanukadam/weapon_detection/blob/main/README.md
