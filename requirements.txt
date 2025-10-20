@@ -1,0 +1,15 @@
+# for all packages installation run in CMD the following: pip install -r requirements.txt
+# Save the dependencies: pip freeze > requirements.txt
+# Core ML/CV libraries
+ultralytics>=8.0.0          # for YOLOv8 person detection and tracking
+torch>=2.0.0                # for deep learning models
+torchvision>=0.15.0         # for deep learning models
+opencv-python>=4.7.0        # for video processing
+
+# Utilities
+scikit-learn>=1.2.0         # for clustering
+numpy>=1.24.0               # for numerical operations
+scipy>=1.10.0               # for optimization, stats and signal processing
+tqdm>=4.65.0                # for fast, extensible progress bars for loops and iterables
+pillow>=9.4.0               # for  image processing task
+

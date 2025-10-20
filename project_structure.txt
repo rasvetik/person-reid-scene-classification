@@ -1,0 +1,34 @@
+person-reid-scene-classification/
+├── .gitignore
+├── README.md                       # Setup, run instructions, and project overview
+├── requirements.txt                # Python dependencies (opencv-python, ultralytics, supervision, torch, etc.)
+├── writeup.pdf                     # The 2-page write-up document
+|
+├── src/                            # All source code
+│   ├── main.py                     # Main script to run the full pipeline
+│   ├── video_processor.py          # Module for detection, tracking, and feature extraction
+│   ├── video_annotator.py          # Visualization
+│   ├── scene_analyzer.py           # Module for normal/crime classification
+│   └── utils.py                    # Helper functions (e.g., file I/O, visualizations)
+|
+├── data/                           # Input video files (.mp4)
+│   └── videos/
+│       ├── 1.mp4
+│       ├── 2.mp4
+│       ├── 3.mp4
+│       └── 4.mp4
+|
+├── models/
+│   ├── yolo/                       # YOLO model weights
+│   │   ├── yolo11n.pt
+│   │   ├── best_model_yolo_violence.pt
+│   │   └── All_weapon.pt
+│   └── resnet/                     # ResNet weights (auto-downloaded)
+|
+└── output/                         # Generated results
+    ├── detections*.json            # Detection data per clip
+    ├── tracklet_info.json          # Aggregated tracklet metadata
+    ├── aggregated_embeddings.npy   # Feature embeddings
+    ├── identity_catalogue.json     # Person Re-ID catalogue
+    ├── scene_labels.json           # Scene classification results
+    └── visualizations/             # Annotated videos and keyframes
